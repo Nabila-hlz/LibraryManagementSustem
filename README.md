@@ -1,11 +1,30 @@
-# LibraryManagementSustem
-This is a library management system desktop application using c++ programing language and Qt gui.
-It allows library employees to add, delete and edit resources and schedule events
-Also it allows students and teachers to borrow, reserve and return resources and see upcoming events.
-Author
+# 📚 LibraryManagementSystem
+
+A **Library Management System** desktop application built using **C++** and the **Qt GUI framework**.  
+This system helps streamline library operations for staff and users (students/teachers), offering a modern interface for managing resources.
+
+### For Library Employees
+- Add new books and media resources
+- Edit existing resources
+- Delete outdated or damaged resources
+- Schedule and manage library events
+
+### For Students and Teachers
+- Borrow available resources
+- Reserve resources currently on loan
+- Return borrowed items
+- View upcoming librarylz events
+  
+### Author
 Nabila Hallouz
-Acknowledgments 
-I got inspired by previous promo projects, youtube videos, oop course and chatbots sometimes.
-You can see how it works in this channel :
-https://studio.youtube.com/channel/UCWUS03GtOjCi94qVkgsBZg/videos/upload?d=ud&filter=%5B%5D&sort=%7B"columnType"%3A"date"%2C"sortOrder"%3A"DESCENDING"%7D
+
+### Prerequisites
+- C++ compiler (e.g., g++)
+- Qt framework (recommended: Qt 5 or Qt 6)
+- Qt Creator (for UI design and building)
+
+### Running the Project
+
+   https://github.com/NabilaH/LibraryManagementSystem.git
+
 
