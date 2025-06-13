@@ -25,6 +25,6 @@ Nabila Hallouz
 
 ### Running the Project
 
-   https://github.com/NabilaH/LibraryManagementSystem.git
+   https://github.com/Nabila-Hlz/LibraryManagementSystem.git
 
 
