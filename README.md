@@ -18,6 +18,12 @@ This system helps streamline library operations for staff and users (students/te
 ### Author
 Nabila Hallouz
 
+### Acknowledgments
+I got inspired by previous promo projects, youtube videos, oop course and chatbots sometimes.
+You can see how it works in this channel :
+https://studio.youtube.com/channel/UCWUS03GtOjCi94qVkgsBZg/videos/upload?d=ud&filter=%5B%5D&sort=%7B"columnType"%3A"date"%2C"sortOrder"%3A"DESCENDING"%7D
+
+
 ### Prerequisites
 - C++ compiler 
 - Qt framework 
