@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/mainback">
+        <file>mainback.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>EmployeeActionsWindow</class>
+ <widget class="QWidget" name="EmployeeActionsWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>192</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/bleu/bleu.jpg);</string>
+  </property>
+  <widget class="QPushButton" name="addResourceButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/white/white.jpg);</string>
+   </property>
+   <property name="text">
+    <string>Add Resource</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="editResourceButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>80</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/white/white.jpg);</string>
+   </property>
+   <property name="text">
+    <string>Edit Resource</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="deleteResourceButton">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>130</y>
+     <width>161</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/white/white.jpg);</string>
+   </property>
+   <property name="text">
+    <string>Delete Resource</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="textEditSchedule">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>30</y>
+     <width>161</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/white/white.jpg);</string>
+   </property>
+   <property name="placeholderText">
+    <string>Schedule</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonSchedule">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>140</y>
+     <width>93</width>
+     <height>29</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/white/white.jpg);</string>
+   </property>
+   <property name="text">
+    <string>Schedule</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
