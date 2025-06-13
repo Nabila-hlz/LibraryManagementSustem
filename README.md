@@ -1,7 +1,7 @@
 # 📚 LibraryManagementSystem
 
 A **Library Management System** desktop application built using **C++** and the **Qt GUI framework**.  
-This system helps streamline library operations for staff and users (students/teachers), offering a modern interface for managing resources.
+This system helps streamline library operations for staff and users (students/teachers).
 
 ### For Library Employees
 - Add new books and media resources
@@ -13,7 +13,7 @@ This system helps streamline library operations for staff and users (students/te
 - Borrow available resources
 - Reserve resources currently on loan
 - Return borrowed items
-- View upcoming librarylz events
+- View upcoming library events
   
 ### Author
 Nabila Hallouz
