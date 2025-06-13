@@ -19,9 +19,9 @@ This system helps streamline library operations for staff and users (students/te
 Nabila Hallouz
 
 ### Prerequisites
-- C++ compiler (e.g., g++)
-- Qt framework (recommended: Qt 5 or Qt 6)
-- Qt Creator (for UI design and building)
+- C++ compiler 
+- Qt framework 
+- Qt Creator 
 
 ### Running the Project
 
